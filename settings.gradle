@@ -1,0 +1,4 @@
+include ':DotechDesign'
+include ':DotechCore'
+include ':app'
+rootProject.name = "BO Library"
